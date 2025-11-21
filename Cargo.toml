@@ -1,9 +1,9 @@
 [package]
 name = "lilbig"
-version = "0.2.1"
+version = "0.2.2"
 edition = "2021"
 description = "Utilities for swapping the byte-order of in-memory types."
-repository = "https://github.com/IanE9/lilbig"
+repository = "https://github.com/BitsE9/lilbig"
 license = "MPL-2.0"
 keywords = ["byteorder", "endian"]
 categories = ["no-std", "no-std::no-alloc"]

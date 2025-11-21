@@ -81,7 +81,6 @@ impl core::ops::Not for ByteOrder {
 
     /// Invokes [`opposite()`](Self::opposite).
     #[inline(always)]
-    #[must_use]
     fn not(self) -> Self::Output {
         self.opposite()
     }
